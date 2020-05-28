@@ -1,12 +1,28 @@
-*{
-position: absolute;
-width: 725px;
-height: 823px;
-left: -48px;
-top: 0px;
+.main__fondo::after {
+    content:"";
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.6);
+    z-index:-1;
+background-image: url(Latin_Festival_-_2017-06-09_-_Angelito_Jusay_1.png)
+}
 
-background: url(Latin_Festival_-_2017-06-09_-_Angelito_Jusay_1.png)
-filter: blur(12px);
+.main__header--fondo{
+position: absolute;
+width: 411px;
+height: 823px;
+left: 0px;
+top: 0px;
+opacity: default;
+position: absolute;
+width: 411px;
+height: 823px;
+left: 0px;
+top: 0px;
+background: rgba(0, 0, 0, 0.85);
 }
 /* Registrate para comenzar */
 .main__p1{
@@ -34,59 +50,57 @@ color: #FFFFFF;
     height: 48px;
     left: 19px;
     top: 656px;
-    
+    color: solid;
     background: #1ED760;
     border-radius: 42px;
 }
 .main__login__user{
     position: absolute;
-width: 298px;
-height: 20px;
-left: 59px;
-top: 651px;
-font-family: Montserrat;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 22px;
-text-transform: uppercase;
-color: #FFFFFF;
+    width: 298px;
+    height: 20px;
+    left: 59px;
+    top: 653px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
 }
 
 /* Crea playlists colaborativas Vota las canciones para que se reproduzcan en el órden que quieras. */
 .main__playlist{
-position: absolute;
-width: 317px;
-height: 30px;
-left: 48px;
-top: 367px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 600;
-font-size: 18px;
-line-height: 30px;
-/* identical to box height, or 167% */
-
-text-align: center;
-
-color: red
+    position: absolute;
+    width: 317px;
+    height: 30px;
+    left: 48px;
+    top: 367px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    /* identical to box height, or 167% */
+    text-align: center;
+    color: #FFFFFF;
 }
 
 .main__tittle__p{
     position: absolute;
-width: 317px;
-height: 30px;
-left: 47px;
-top: 289px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 800;
-font-size: 20px;
-line-height: 24px;
-
-color: red;
+    width: 317px;
+    height: 30px;
+    left: 47px;
+    top: 289px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
 }
 
 /* LogoSoloBlancoFondoTransparente 1 */
@@ -97,5 +111,5 @@ height: 73px;
 left: 164px;
 top: 79px;
 
-background: url(LogoSoloBlancoFondoTransparente.png);
+background: url(LogoSoloNegroFondoTransparente.png) solid;
 }
