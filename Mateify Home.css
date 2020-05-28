@@ -1,0 +1,101 @@
+*{
+position: absolute;
+width: 725px;
+height: 823px;
+left: -48px;
+top: 0px;
+
+background: url(Latin_Festival_-_2017-06-09_-_Angelito_Jusay_1.png)
+filter: blur(12px);
+}
+/* Registrate para comenzar */
+.main__p1{
+
+position: absolute;
+width: 269px;
+height: 16px;
+left: 82px;
+top: 736px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+/* Inicia sesión con tu cuenta */
+.main__register__user{
+    position: absolute;
+    width: 379px;
+    height: 48px;
+    left: 19px;
+    top: 656px;
+    
+    background: #1ED760;
+    border-radius: 42px;
+}
+.main__login__user{
+    position: absolute;
+width: 298px;
+height: 20px;
+left: 59px;
+top: 651px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+/* Crea playlists colaborativas Vota las canciones para que se reproduzcan en el órden que quieras. */
+.main__playlist{
+position: absolute;
+width: 317px;
+height: 30px;
+left: 48px;
+top: 367px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: red
+}
+
+.main__tittle__p{
+    position: absolute;
+width: 317px;
+height: 30px;
+left: 47px;
+top: 289px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: red;
+}
+
+/* LogoSoloBlancoFondoTransparente 1 */
+.main__logo{
+position: absolute;
+width: 82px;
+height: 73px;
+left: 164px;
+top: 79px;
+
+background: url(LogoSoloBlancoFondoTransparente.png);
+}

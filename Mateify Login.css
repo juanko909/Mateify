@@ -1,0 +1,285 @@
+*{
+    position: center;
+    margin: 0px;
+    text-decoration: none;
+    padding:0px;
+    background-color: white;
+}
+/* LogoSoloBlancoFondoTransparente 1 */
+.main__logo {
+    position: absolute;
+    width: 37px;
+    height: 33px;
+    left: 495px;
+    top: 25px;
+    
+    background: url(LogoSoloBlancoFondoTransparente.png) }
+
+/* Rectangle 2 */
+
+.main__rectangule{
+    position: absolute;
+    width: 1152px;
+    height: 83px;
+    left: 1px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+/* Mateify */
+.main__tittle__h1 {
+    position: absolute;
+    width: 183px;
+    height: 64px;
+    left: 543px;
+    top: 19px;
+    font-family: Righteous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+/* Line 1 */
+.main__line{
+position: absolute;
+width: 1152px;
+height: 0px;
+left: 0px;
+top: 83px;
+border: 1px solid rgba(101, 101, 101, 0.33);
+}
+
+/* ¿Has olvidado la contraseña? */
+.main__lostpass{
+    position: absolute;
+width: 279px;
+height: 16px;
+left: 437px;
+top: 384px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #1ED760;
+}
+.line1{
+    position: absolute;
+width: 527px;
+height: 0px;
+left: 313px;
+top: 445px;
+}
+
+/* Para continuar, inicia sesión */
+
+.main__tittle__h2{
+    position: absolute;
+    width: 279px;
+    height: 16px;
+    left: 451px;
+    top: 117px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+/* ¿No tienes cuenta? */
+.main__lostuser{
+    position: absolute;
+    width: 185px;
+    height: 16px;
+    left: 484px;
+    top: 484px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+
+color: #000000;
+}
+ /* Rectangle 2 */
+
+.main__link{
+    position: absolute;
+    width: 527px;
+    height: 57px;
+    left: 313px;
+    top: 170px;
+    
+    background: #FFFFFF;
+    /* Dark 25% */
+    
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    box-sizing: border-box;
+    border-radius: 33px;
+}
+.main__link__second{
+    position: absolute;
+    width: 527px;
+    height: 57px;
+    left: 313px;
+    top: 237px;
+    background: #FFFFFF;
+/* Dark 25% */
+
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    box-sizing: border-box;
+    border-radius: 33px;
+}
+
+/* Correo electrónico o nombre de usuario */
+
+.main__tittle__h3{
+    position: absolute;
+width: 398px;
+height: 20px;
+left: 330px;
+top: 186px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+color: gray;
+background-color: white;
+
+/* or 133% */
+
+/* Dark 25% */
+    color: rgba(31, 32, 65, 0.25);
+}
+
+/* Contraseña */
+
+.main__tittle__h4{
+    position: absolute;
+width: 337.05px;
+height: 20px;
+left: 330.14px;
+top: 253px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+/* or 133% */
+
+
+/* Dark 25% */
+
+color: rgba(31, 32, 65, 0.25);
+}
+.main__input{
+    position: absolute;
+    width: 163px;
+    height: 22px;
+    left: 358px;
+    top: 323px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    /* or 133% */
+    
+    
+    /* Dark 50% */
+    
+    color: rgba(31, 32, 65, 0.5);
+}
+.Main__tittle__h5{
+    position: absolute;
+width: 163px;
+height: 22px;
+left: 358px;
+top: 323px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+color: rgba(31, 32, 65, 0.5);
+}
+
+.main__buttom{
+    position: absolute;
+    width: 29.17px;
+    height: 29.17px;
+    left: 313px;
+    top: 319px;
+    background: #FFFFFF;
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+/* Registrate */
+
+.main__buttom__register{
+position: absolute;
+width: 204px;
+height: 38px;
+left: 474px;
+top: 525px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+box-sizing: border-box;
+border-radius: 42px;
+}
+.main__register{
+    position: absolute;
+width: 123px;
+height: 16px;
+left: 526px;
+top: 534px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+text-transform: uppercase;
+color: #000000;
+background-color: transparent;
+}
+
+/* Iniciar sesión */
+.main__sesion{
+    position: absolute;
+    width: 165px;
+    height: 16px;
+    left: 667px;
+    top: 327px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: transparent;
+}
+.main__buttom__sesion{ 
+position: absolute;
+width: 204px;
+height: 38px;
+left: 636px;
+top: 319px;
+
+background: #1ED760;
+border-radius: 42px;
+}
