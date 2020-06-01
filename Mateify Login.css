@@ -5,6 +5,9 @@
     padding:0px;
     background-color: white;
 }
+.img__latin{
+
+}
 /* LogoSoloBlancoFondoTransparente 1 */
 .main__logo {
     position: absolute;
@@ -55,17 +58,18 @@ border: 1px solid rgba(101, 101, 101, 0.33);
 /* ¿Has olvidado la contraseña? */
 .main__lostpass{
     position: absolute;
-width: 279px;
-height: 16px;
-left: 437px;
-top: 384px;
-font-family: Montserrat;
-font-style: normal;
-font-weight: bold;
-font-size: 18px;
-line-height: 22px;
-
-color: #1ED760;
+    width: 279px;
+    height: 16px;
+    left: 437px;
+    top: 384px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #1ED760;
 }
 .line1{
     position: absolute;
