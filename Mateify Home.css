@@ -10,7 +10,7 @@
 background-image: url(Latin_Festival_-_2017-06-09_-_Angelito_Jusay_1.png)
 }
 
-.main__header--fondo{
+#main__header--fondo{
 position: absolute;
 width: 411px;
 height: 823px;
@@ -110,10 +110,6 @@ width: 82px;
 height: 73px;
 left: 164px;
 top: 79px;
-
 background: url(LogoSoloNegroFondoTransparente.png) solid;
-}
-
-.img__final{
-
+filter: brightness(50%);
 }
