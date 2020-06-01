@@ -6,9 +6,7 @@
     padding:0px;
     background-color: white;
 }
-.img__latin{
 
-}
 /* LogoSoloBlancoFondoTransparente 1 */
 .main__logo {
     position: absolute;
@@ -225,9 +223,7 @@ color: rgba(31, 32, 65, 0.5);
     left: 313px;
     top: 319px;
     background: #FFFFFF;
-    border: 1px solid rgba(31, 32, 65, 0.25);
-    box-sizing: border-box;
-    border-radius: 4px;
+    border-radius: 42px;
 }
 
 /* Registrate */
@@ -238,7 +234,6 @@ width: 204px;
 height: 38px;
 left: 474px;
 top: 525px;
-
 background: #FFFFFF;
 border: 2px solid #000000;
 box-sizing: border-box;
@@ -257,7 +252,7 @@ font-weight: bold;
 font-size: 16px;
 line-height: 20px;
 text-transform: uppercase;
-color: #000000;
+color: #000000 transparent;
 background-color: transparent;
 }
 
