@@ -1,1 +1,181 @@
+.main__box{
+    position: absolute;
+width: 411px;
+height: 823px;
+left: 0px;
+top: 0px;
+display: flex;
+flex-wrap: wrap;
+align-content: center;
+}
+/* Mask Copy */
+.main__mcopy{
+
+position: absolute;
+left: 0%;
+right: 50.12%;
+top: 57.47%;
+bottom: 17.62%;
+
+background: url(I-Don-t-Care-English-2017-500x500.jpg), url(Image.png);
+border-radius: 3px;
+}
+
+/* Rectangle Copy 12 */
+
+.main__copy12{
+position: absolute;
+left: 49.88%;
+right: 0%;
+top: 57.47%;
+bottom: 17.62%;
+
+background: url(image.jpg), url(Image.png);
+border-radius: 3px;
+}
+/* Mask */
+
+.main__mask{
+position: absolute;
+left: 50.12%;
+right: 0%;
+top: 32.44%;
+bottom: 42.53%;
+
+background: url(d174fc347d44a5d280db44e5d611903b6395545f.jpg);
+border-radius: 3px;}
+
+/* Rectangle Copy 13 */
+
+.main__mcopy13{
+    position: absolute;
+    left: 0%;
+    right: 49.88%;
+    top: 32.44%;
+    bottom: 42.53%;
+    
+    background: url(R-12561311-1537641224-6829.jpeg.jpg);
+    border-radius: 3px;
+}
+
+/* Rectangle */
+
+.main__rectangle{
+    position: absolute;
+    left: -0.24%;
+    right: 50.12%;
+    top: 82.38%;
+    bottom: -7.29%;
+    
+    background: url(03-Jonas-Brothers-press-2019-cr-Peggy-Sirota-billboard-1548.jpg), url(Image.png);
+    border-radius: 3px;
+}
+
+/* Rectangle Copy 16 */
+
+.main__copy16{
+position: absolute;
+left: 49.88%;
+right: 0.24%;
+top: 82.38%;
+bottom: -7.29%;
+
+background: url(download.jpg);
+border-radius: 3px;
+}
+
+/* Rectangle */
+.main__rectangle_1{
+position: absolute;
+left: 0%;
+right: 49.88%;
+top: 7.53%;
+bottom: 67.56%;
+
+background: url(03-Jonas-Brothers-press-2019-cr-Peggy-Sirota-billboard-1548.jpg), url(Image.png);
+border-radius: 3px;
+}
+/* Rectangle Copy 15 */
+.main__copy15{
+position: absolute;
+left: 50.12%;
+right: 0%;
+top: 7.53%;
+bottom: 67.56%;
+
+background: url(download.jpg);
+border-radius: 3px;
+}
+/* MATEIFY */
+    
+.main_h1{
+    position: absolute;
+    width: 95px;
+    height: 21px;
+    left: 159px;
+    top: 21px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+.rectangule_green{
+    position: absolute;
+    width: 411px;
+    height: 62px;
+    left: 0px;
+    top: 0px;
+z-index: -1;
+}
+.buttom{
+    position: absolute;
+width: 26px;
+height: 32px;
+left: 360px;
+top: 16px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 35px;
+line-height: 30px;
+/* or 86% */
+
+text-align: center;
+border: 1px solid #1ED760;
+
+color: #FFFFFF;
+background-color: #1ED760;
+
+}
+.main__circulo{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 360px;
+top: 15px;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 15px;
+}
+.main__fondo_latin{
+    content:"";
+    position:absolute;
+    top:0;
+    left:0;
+    width:auto;
+    height:auto;
+    background:rgba(0,0,0,0.6);
+    z-index:-1;
+background-image: url(Latin_Festival_-_2017-06-09_-_Angelito_Jusay_1.png);
+z-index: -1;
+}
+
+}
+
 
