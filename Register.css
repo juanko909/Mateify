@@ -1,0 +1,487 @@
+.main__otro{
+position: absolute;
+width: 47px;
+height: 33px;
+left: 280px;
+top: 571px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: rgba(31, 32, 65, 0.25);
+}
+
+.buttom__otro{
+    /* Rectangle 2 */
+
+
+position: absolute;
+width: 13.31px;
+height: 13.62px;
+left: 260.33px;
+top: 571.3px;
+
+background: #FFFFFF;
+/* Dark 25% */
+
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+/* Femenino */
+
+.main__femenino{
+position: absolute;
+width: 79px;
+height: 33px;
+left: 162px;
+top: 571px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: rgba(31, 32, 65, 0.25);
+}
+
+.buttom__femenino{
+position: absolute;
+width: 13.31px;
+height: 13.62px;
+left: 141.83px;
+top: 571.3px;
+
+background: #FFFFFF;
+/* Dark 25% */
+
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+/* Masculino */
+
+.main__masculino{
+position: absolute;
+width: 80px;
+height: 33px;
+left: 53px;
+top: 571px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: rgba(31, 32, 65, 0.25);
+}
+.buttom__masculino{
+    position: absolute;
+width: 13.31px;
+height: 13.62px;
+left: 32.66px;
+top: 571.3px;
+
+background: #FFFFFF;
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+/* Fecha de nacimiento */
+
+.main__nacimiento{
+position: absolute;
+width: 189px;
+height: 18px;
+left: 33px;
+top: 456px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+text-transform: uppercase;
+
+color: rgba(31, 32, 65, 0.25);
+}
+
+/* Día */
+
+.main__dia{
+    position: absolute;
+    width: 23.95px;
+    height: 30px;
+    left: 42.64px;
+    top: 499px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 24px;
+    /* or 200% */
+    
+    
+    color: rgba(31, 32, 65, 0.25);
+    
+}
+
+#buttom__dia{
+    position: absolute;
+    width: 29.28px;
+    height: 56.43px;
+    left: 62.43px;
+    top: 480.57px;
+    
+    font-family: Material Icons;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+    /* Mes */
+
+.main__mes{
+position: absolute;
+width: 32.76px;
+height: 30.78px;
+left: 119.94px;
+top: 498.97px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 24px;
+/* or 200% */
+color: rgba(31, 32, 65, 0.25);  
+}
+
+#buttom__mes{
+position: absolute;
+width: 68.64px;
+height: 56.43px;
+left: 200.27px;
+top: 481.01px;
+
+font-family: Material Icons;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: rgba(31, 32, 65, 0.25);
+}
+
+/* Año */
+.main__año{
+position: absolute;
+width: 32.76px;
+height: 30.78px;
+left: 276.31px;
+top: 498.97px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 24px;
+/* or 200% */
+color: rgba(31, 32, 65, 0.25);
+}
+
+#buttom__año{
+    position: absolute;
+width: 68.64px;
+height: 56.43px;
+left: 329.36px;
+top: 481.01px;
+
+font-family: Material Icons;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: rgba(31, 32, 65, 0.25);
+
+}
+
+/* Correo electrónico */
+
+.main__correo{
+    position: absolute;
+    width: 264.84px;
+    height: 20px;
+    left: 53px;
+    top: 178px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    
+    
+    /* Dark 25% */
+    
+    color: rgba(31, 32, 65, 0.25);
+}
+
+.buttom__correo{
+    position: absolute;
+    width: 350.67px;
+    height: 57px;
+    left: 30.67px;
+    top: 160px;
+    
+    background: #FFFFFF;
+    /* Dark 25% */
+    
+    border: 1px solid rgba(31, 32, 65, 0.25);
+    box-sizing: border-box;
+    border-radius: 33px;
+}
+
+/* Nombre de usuario */
+.main__usuario{
+    position: absolute;
+    width: 224.28px;
+    height: 20px;
+    left: 52px;
+    top: 395px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    
+    
+    /* Dark 25% */
+    
+    color: rgba(31, 32, 65, 0.25);
+}
+
+.buttom__usuario{
+position: absolute;
+width: 350.67px;
+height: 57px;
+left: 30px;
+top: 377px;
+
+background: #FFFFFF;
+/* Dark 25% */
+
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 33px;
+}
+
+    /* Contraseña */
+
+.main__contraseña{
+
+position: absolute;
+width: 224.28px;
+height: 20px;
+left: 53px;
+top: 322px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+/* Dark 25% */
+
+color: rgba(31, 32, 65, 0.25);
+}
+
+.buttom__contraseña{
+    position: absolute;
+width: 350.67px;
+height: 57px;
+left: 30.67px;
+top: 304px;
+
+background: #FFFFFF;
+/* Dark 25% */
+
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 33px;
+}
+
+/* Confirmar correo electrónico */
+
+.main__correo_2{
+position: absolute;
+width: 224.28px;
+height: 20px;
+left: 53px;
+top: 250px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+/* Dark 25% */
+
+color: rgba(31, 32, 65, 0.25);
+}
+
+.buttom__correo_2{
+    position: absolute;
+width: 350.67px;
+height: 57px;
+left: 30.67px;
+top: 232px;
+
+background: #FFFFFF;
+/* Dark 25% */
+
+border: 1px solid rgba(31, 32, 65, 0.25);
+box-sizing: border-box;
+border-radius: 33px;
+}
+
+/* Registrarse */
+
+.registrate_p{
+    position: absolute;
+    width: 139px;
+    height: 20px;
+    left: 144px;
+    top: 649px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    
+    color: solid #FFFFFF;
+}
+
+.buttom__registrate{
+    position: absolute;
+width: 351px;
+height: 48px;
+left: 30px;
+top: 635px;
+
+background: #1ED760;
+border-radius: 42px;
+}
+
+/* Registrate con tu dirección de email */
+.main__h1{
+position: absolute;
+width: 342px;
+height: 16px;
+left: 31px;
+top: 112px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+
+    /* IniCIA SESION CON TU CUENTA */
+
+.sesion_p{
+position: absolute;
+width: 198px;
+height: 16px;
+left: 109px;
+top: 720px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+line-height: 15px;
+text-transform: uppercase;
+
+color: rgba(31, 32, 65, 0.5);
+}
+
+/* Mateify */
+.main__h2{
+position: absolute;
+width: 121px;
+height: 64px;
+left: 146px;
+top: 28px;
+
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 40px;
+
+color: #FFFFFF;
+}
+
+#main__header--fondo{
+    position: absolute;
+    width: 411px;
+    height: 823px;
+    left: 0px;
+    top: 0px;
+    filter: brightness(0.4);
+    background: rgba(0, 0, 0, 0.85);
+}
+
+.main__fondo{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.6);
+    z-index:-1;
+    
+    background-image: url(Latin_Festival_-_2017-06-09_-_Angelito_Jusay_1.png);
+}
+
