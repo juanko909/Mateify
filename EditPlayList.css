@@ -1,1 +1,204 @@
+.main_favourite{
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 21px;
+    top: 306px;
+    border: 1px solid #1ED760;
+}
 
+.main_favourite_1{
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 21px;
+    top: 360px;
+    border: 1px solid #1ED760;
+}
+.main_favourite_2{
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 21px;
+    top: 414px;
+    border: 1px solid #1ED760;
+}
+
+.main_favourite_3{
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 21px;
+    top: 468px;
+}
+.main_favourite_4{
+    position: absolute;
+width: 22px;
+height: 19px;
+left: 21px;
+top: 522px;
+border: 1px solid #1ED760;
+}
+.main_favourite_5{
+position: absolute;
+width: 22px;
+height: 19px;
+left: 21px;
+top: 576px;
+border: 1px solid #1ED760;
+}
+
+.main_favourite_6{
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 21px;
+    top: 630px;
+    border: 1px solid #1ED760;
+}
+
+.main_favourite_7{
+    position: absolute;
+    width: 22px;
+    height: 19px;
+    left: 21px;
+    top: 684px;
+    border: 1px solid #1ED760;
+}
+
+.main_favourite_8{
+    position: absolute;
+width: 22px;
+height: 19px;
+left: 21px;
+top: 738px;
+border: 1px solid #1ED760;
+}
+
+.main_favourite_9{
+    position: absolute;
+width: 22px;
+height: 19px;
+left: 21px;
+top: 792px;
+
+background: #1ED760;
+}
+
+/* Vota las canciones para cambiar el orden en que se reproducen */
+.main__tittle{
+position: absolute;
+width: 372px;
+height: 26px;
+left: 21px;
+top: 142px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.main__38_nunes{
+    position: absolute;
+    height: 22px;
+    left: 71.29%;
+    right: 18.49%;
+    top: calc(50% - 22px/2 + 394.5px);
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    /* or 145% */
+    
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+.main__3_nunes{
+    position: absolute;
+    height: 22px;
+    left: 71.29%;
+    right: 18.49%;
+    top: calc(50% - 22px/2 + 394.5px);
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    /* or 145% */
+    
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+.main__nunes{
+    position: absolute;
+    height: 22px;
+    left: 44.53%;
+    right: 39.17%;
+    top: calc(50% - 22px/2 + 394.75px);
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 16px;
+    /* or 145% */
+    
+    
+    color: #FFFFFF;
+    
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+.main__3_nunes{
+position: absolute;
+height: 24.86px;
+left: 85.3%;
+right: 9.19%;
+top: calc(50% - 24.86px/2 + 394.93px);
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+}
+.main__kamelia{
+    position: absolute;
+height: 22px;
+left: 17.76%;
+right: 68.37%;
+top: calc(50% - 22px/2 + 394.5px);
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+/* or 145% */
+
+
+color: #FFFFFF;
+
+mix-blend-mode: normal;
+opacity: 0.5;
+}
